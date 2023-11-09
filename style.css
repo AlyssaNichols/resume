@@ -1,59 +1,54 @@
-.header{
+.header {
   font-family: arial;
-  background:white;
-  color:purple;
-text-align: center;
-  padding-top:10px;
-  padding-bottom:10px;
-  
+  background: white;
+  color: purple;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
-h1{
-  color:purple;
-  line-height:4px
+h1 {
+  color: purple;
+  line-height: 4px;
 }
-body{
-  background:pink
-}
-
-.education{
-  font-family:arial;
+body {
+  background: pink;
 }
 
-.education_header{
-  color:white;
-  font-weight:bold;
-  
+.education {
+  font-family: arial;
 }
 
-.experience{
-  font-family:arial;
-    
-}
-.experience_header{
-  font-family:arial;
-  color:white;
-  
-    
-}
-p{
-  font-size:12px;
-  line-height:4px;
-  color:black;
-}
-h5{
-  background:purple
+.education_header {
+  color: white;
+  font-weight: bold;
 }
 
-ul{
-  font-family:arial;
-  font-size:14px
+.experience {
+  font-family: arial;
 }
-.experience_header{
-  background:white
+.experience_header {
+  font-family: arial;
+  color: white;
+}
+p {
+  font-size: 12px;
+  line-height: 4px;
+  color: black;
+}
+h5 {
+  background: purple;
 }
 
-.footer{background:white;
-  color:purple;
-  
+ul {
+  font-family: arial;
+  font-size: 14px;
+}
+.experience_header {
+  background: white;
+}
+
+.footer {
+  background: white;
+  color: purple;
 }
